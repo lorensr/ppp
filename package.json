@@ -1,6 +1,6 @@
 {
   "name": "@lorensr/ppp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Purchasing power parity—sell products at comparable prices around the world 🌎🌍🌏",
   "main": "lib/index.js",
   "dependencies": {
@@ -20,7 +20,11 @@
     "type": "git",
     "url": "git+https://github.com/lorensr/ppp.git"
   },
-  "keywords": ["purchasing power parity", "ppp", "pricing"],
+  "keywords": [
+    "purchasing power parity",
+    "ppp",
+    "pricing"
+  ],
   "author": "Loren",
   "license": "MIT",
   "bugs": {
